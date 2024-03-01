@@ -3,7 +3,7 @@
     "instancePath": "C:\\inetpub\\wwwroot\\next.sc",
     "apiKey": "{6596DE64-82A2-4C16-BE0F-59302ECE95BA}",
     "deploySecret": "t6tbl8kcddqjbqbuaemq2f66zomwgsik4589f35ka1pt",
-    "deployUrl": "https://192.168.140.152/sitecore/api/jss/import",
-    "layoutServiceHost": "https://192.168.140.152"
+    "deployUrl": "https://next.sc/sitecore/api/jss/import",
+    "layoutServiceHost": "https://next.sc"
   }
 }

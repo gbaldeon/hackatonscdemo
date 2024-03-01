@@ -10,7 +10,7 @@ type SugDemoProps = {
 
 const SugDemo = (props: SugDemoProps): JSX.Element => (
   <div>
-    <p>SugDemoComponent</p>
+    <p>SugDemoComponent ok</p>
     <Link field={props?.fields?.Link}>
       <Text field={props?.fields?.Heading} />
       <Image field={props?.fields?.Image} />
